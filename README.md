@@ -39,6 +39,15 @@ Calculated metrics built using Data Analysis Expressions (DAX):
 * **Executive KPI Cards:** Custom-styled shape cards displaying core financial performance metrics.
 * **Interactive Slicers:** Region and Category slicers connected via **Report Connections** to enable simultaneous, cross-table filtering across all dashboard charts and metrics.
 
+---
+
+## Dashboard Preview & Analytical Modeling
+
+### 1. Interactive Business Intelligence Dashboard
+![Automated Business Dashboard](dashboard_view.png)
+
+### 2. Underlying Pivot Tables & Summary Data Modeling
+![Pivot Table Analysis](pivot_modeling.png)
 
 ---
 *Created by **Arnab Saha***
